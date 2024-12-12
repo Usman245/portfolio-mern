@@ -1,0 +1,23 @@
+{
+    "language": "Language",
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projects",
+    "connect": "Let’s Connect",
+    "download": "Download CV",
+
+    "title-banner": "Passionate about developing modern and efficient web applications, I specialize in the MERN stack with expertise in React, Node.js, Express, and MongoDB. I focus on creating dynamic, user-friendly interfaces and building scalable backend solutions. With a keen eye for detail and a dedication to clean, maintainable code, I enjoy solving complex challenges. My goal is to deliver impactful projects that provide seamless user experiences while meeting client expectations.",
+    "title-skill": "Proficient in MERN Stack Development, including HTML, CSS, JavaScript, and React.js, I continuously strive to enhance my skills and stay up-to-date with the latest technologies.",
+    "title-project": "There are all the projects that I did during my study and research",
+    "title-sub-project": "Along with some mini-projects please visit my",
+
+    "contact": "Contact",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+
+    "send-email": "Send me Email",
+    "send-sub-email": "so I can contact you"
+}

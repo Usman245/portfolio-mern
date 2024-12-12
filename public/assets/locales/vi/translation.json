@@ -1,0 +1,23 @@
+{
+    "language": "Sprache",
+    "home": "Startseite",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "connect": "Lass uns verbinden",
+    "download": "Lebenslauf herunterladen",
+
+    "title-banner": "Ich bin leidenschaftlich daran interessiert, moderne und effiziente Webanwendungen zu entwickeln. Ich spezialisiere mich auf den MERN-Stack mit Expertise in React, Node.js, Express und MongoDB. Mein Fokus liegt auf der Erstellung dynamischer, benutzerfreundlicher Schnittstellen und dem Aufbau skalierbarer Backend-Lösungen. Mit einem scharfen Blick für Details und einem Engagement für sauberen, wartbaren Code genieße ich es, komplexe Herausforderungen zu lösen. Mein Ziel ist es, beeindruckende Projekte zu liefern, die nahtlose Benutzererfahrungen bieten und die Erwartungen der Kunden erfüllen.",
+    "title-skill": "Erfahren in der MERN-Stack-Entwicklung, einschließlich HTML, CSS, JavaScript und React.js, strebe ich kontinuierlich danach, meine Fähigkeiten zu verbessern und mit den neuesten Technologien auf dem Laufenden zu bleiben.",
+    "title-project": "Hier sind alle Projekte, die ich während meines Studiums und meiner Forschung gemacht habe.",
+    "title-sub-project": "Zusätzlich einige Mini-Projekte, bitte besuchen Sie mein",
+
+    "contact": "Kontakt",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phoneNumber": "Telefonnummer",
+    "message": "Nachricht",
+
+    "send-email": "Schicken Sie mir eine E-Mail",
+    "send-sub-email": "damit ich Sie kontaktieren kann"
+}
